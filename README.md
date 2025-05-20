@@ -7,7 +7,7 @@ The repository supports the findings presented in the study:
 
 ---
 
-## 🧠 Study Overview
+## Study Overview
 
 **Purpose**  
 To investigate the proteomic landscape of gliomas and identify functional subtypes within IDH-wildtype glioblastoma that may inform our understanding of tumor biology and suggest potential therapeutic targets.
